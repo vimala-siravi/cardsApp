@@ -10,12 +10,14 @@
 
 ### The card component:
 
+- Card component is present under https://github.com/vimala95/cardsApp/tree/master/src/components
 - Shows id from the api response as card's header
 - Shows title from the api response as card's title
 - Shows body from the api response as card's body
 
 ### The custome hook useInfiniteScroll:
 
+- Custom hook is present under https://github.com/vimala95/cardsApp/tree/master/src/customHooks
 - Checks the condition: window.innerHeight + window.scrollY >= document.body.offsetHeight to see if user has reached the bottom of the window/page
 - Takes in any function passed to it and executes it
 
