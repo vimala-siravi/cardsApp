@@ -1,5 +1,7 @@
 # React Cards App with Pagination
 
+![alt text](https://github.com/vimala95/cardsApp/blob/master/public/cards.PNG?raw=true)
+
 ### This project aims at:
 
 - Creating a card component
